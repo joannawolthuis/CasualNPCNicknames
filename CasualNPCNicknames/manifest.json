@@ -1,0 +1,10 @@
+﻿{
+  "Name": "CasualNPCNicknames",
+  "Author": "Joby",
+  "Version": "1.0.0",
+  "Description": "Mod Template",
+  "UniqueID":"Joby.CasualNPCNicknames",
+  "EntryDll": "CasualNPCNicknames.dll",
+  "MinimumApiVersion": "2.11",
+  "UpdateKeys": [ "Nexus:" ]
+}
